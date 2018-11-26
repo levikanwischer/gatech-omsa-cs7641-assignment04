@@ -1,0 +1,4 @@
+Algorithm,Learning,Goals,Steps,Rewards,Match VI,Match PI,Match QL
+ValueIteration,0.81,10000,7.43,88.8,True,True,False
+PolicyIteration,1.81,10000,7.39,88.94,True,True,False
+QLearning,39247.44,10000,7.41,87.7,False,False,True
